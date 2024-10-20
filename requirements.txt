@@ -1,0 +1,7 @@
+## Requirements
+To run this application, you need to install the following dependencies:
+
+requests
+matplotlib
+Tkinter
+

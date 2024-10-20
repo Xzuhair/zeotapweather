@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Bengaluru",
+        "average_temp": 26.660000000000025,
+        "max_temp": 26.870000000000005,
+        "min_temp": 25.900000000000034,
+        "dominant_weather": "Rain"
+    },
+    {
+        "city": "Chennai",
+        "average_temp": 30.590000000000032,
+        "max_temp": 31.680000000000007,
+        "min_temp": 29.99000000000001,
+        "dominant_weather": "Mist"
+    },
+    {
+        "city": "Delhi",
+        "average_temp": 91.49000000000002,
+        "max_temp": 91.49000000000002,
+        "min_temp": 91.49000000000002,
+        "dominant_weather": "Haze"
+    },
+    {
+        "city": "Delhi",
+        "average_temp": 91.49000000000002,
+        "max_temp": 91.49000000000002,
+        "min_temp": 91.49000000000002,
+        "dominant_weather": "Haze"
+    },
+    {
+        "city": "Hyderabad",
+        "average_temp": 28.230000000000018,
+        "max_temp": 29.730000000000018,
+        "min_temp": 28.230000000000018,
+        "dominant_weather": "Haze"
+    },
+    {
+        "city": "Bengaluru",
+        "average_temp": 24.670000000000016,
+        "max_temp": 25.28000000000003,
+        "min_temp": 24.060000000000002,
+        "dominant_weather": "Rain"
+    },
+    {
+        "city": "Chennai",
+        "average_temp": 29.410000000000025,
+        "max_temp": 30.129999999999995,
+        "min_temp": 28.890000000000043,
+        "dominant_weather": "Mist"
+    },
+    {
+        "city": "Bengaluru",
+        "average_temp": 25.710000000000036,
+        "max_temp": 26.79000000000002,
+        "min_temp": 23.900000000000034,
+        "dominant_weather": "Rain"
+    }
+]

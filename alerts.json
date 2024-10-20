@@ -1,0 +1,44 @@
+[
+    {
+        "city": "bengaluru",
+        "temperature": 299.81,
+        "weather": "Rain",
+        "timestamp": 1729405059.0557723
+    },
+    {
+        "city": "Delhi",
+        "temperature": 306.2,
+        "weather": "Haze",
+        "timestamp": 1729425277.5886137
+    },
+    {
+        "city": "Delhi",
+        "temperature": 306.2,
+        "weather": "Haze",
+        "timestamp": 1729425989.3966804
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 301.38,
+        "weather": "Haze",
+        "timestamp": 1729426562.3876066
+    },
+    {
+        "city": "Delhi",
+        "temperature": 45,
+        "weather": "Clear",
+        "timestamp": 1729438590.3091466
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 30,
+        "weather": "Rain",
+        "timestamp": 1729438590.3126554
+    },
+    {
+        "city": "London",
+        "temperature": 26.850000000000023,
+        "weather": "Clouds",
+        "timestamp": 1729438590.3348825
+    }
+]
